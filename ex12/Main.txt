@@ -1,0 +1,8 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex12\" ; if ($?) { javac Main.java } ; if ($?) { java Main }
+
+----- Shopping Cart -----
+Laptop Bag - Rs.1200.0
+Mouse - Rs.500.0
+Keyboard - Rs.800.0
+-------------------------
+Total Amount: Rs.2500.0
